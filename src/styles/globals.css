@@ -1,0 +1,19 @@
+/* Import your CSS variables */
+@import "./variables.css";
+
+/* Global styles */
+body {
+  font-family: var(--font-main);
+  background-color: #f3f4f6; /* Tailwind gray-100 */
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+button {
+  border-radius: var(--radius);
+}

@@ -1,0 +1,6 @@
+:root {
+  --primary-color: #3b82f6; /* Tailwind blue-500 */
+  --secondary-color: #10b981; /* Tailwind green-500 */
+  --font-main: "Inter", sans-serif;
+  --radius: 0.5rem;
+}
